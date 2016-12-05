@@ -4,7 +4,7 @@ body {
 /* Tu CSS va aqui */
 
 .navbar {
-    background: #15131d !important;
+    background: rgba(21, 19, 29,0.9) !important;
     border: none;
 }
 /*--------------------------------------------------------------------------------------------------------HEADER*/
